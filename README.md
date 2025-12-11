@@ -46,3 +46,4 @@ Ideal para criadores que desejam precificar itens com precisão.
 Autor
 
 Projeto criado para ajudar a comunidade de criadores Roblox que precisam de cálculos rápidos e confiáveis sobre as taxas da plataforma.
+Ideia dada por Kauan link Linkdln:https://www.linkedin.com/in/kauan-araujoo/
